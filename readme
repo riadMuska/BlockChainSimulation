@@ -1,1 +1,3 @@
-
+The project was developed in C, aimed at managing transactions between various nodes that exchange money. The
+project allowed me to learn concepts related to concurrent programming, particularly using message queues, shared
+memory, and semaphores.
